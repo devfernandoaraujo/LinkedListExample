@@ -1,6 +1,6 @@
 # How to use Single LinkedList
 
-## Practice exampples of hoe to manipulate a LinkedList
+## Practice examples of how to manipulate a LinkedList using C# and Visual Studio Code
 
 This console application project is for learning purpouse only. 
 
